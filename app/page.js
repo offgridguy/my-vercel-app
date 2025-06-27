@@ -14,6 +14,7 @@ export default function Home() {
           priority
         />
         <ol>
+          <li><h1>This is my awesome Vercel Demo App - Hello from Parrot OS!</h1></li>
           <li>
             Get started by editing <code>app/page.js</code>.
           </li>
